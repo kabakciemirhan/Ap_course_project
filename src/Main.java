@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) 
     {
         //Array (Dizi) Nedir?
+        // Aynı türden birden fazla veriyi tek bir değişkende tutmamızı sağlar.
         int[] notlar = new int[];
         notlar[0] = 76;
         notlar[1] = 81;
